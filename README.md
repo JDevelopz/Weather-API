@@ -23,5 +23,10 @@ Create your own free API on https://openweathermap.org/
 
 (Can take a few hours before the API is active)
 
+Copy your API in :
+const apiKey = 'Your API';
 _______________________________________________
 
+Change your weather location: 
+
+const query = 'Your Location';
